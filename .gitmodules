@@ -1,0 +1,6 @@
+[submodule "custom-slide"]
+	path = custom-slide
+	url = https://github.com/tks3996/custom-swiper
+[submodule "data-table"]
+	path = data-table
+	url = https://github.com/tks3996/data-table
